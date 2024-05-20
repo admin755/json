@@ -1,0 +1,41 @@
+[
+    {
+        "text": "Random Text 1",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "assets/images/hero.png",
+            "channelName": "Jhon Doe",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "51k",
+            "published": "1 week"
+        }
+    },
+    {
+        "text": "Random Text 2",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "assets/images/hero.png",
+            "channelName": "Jhon Doe",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "51k",
+            "published": "1 week"
+        }
+    },
+    {
+        "text": "Random Text 3",
+        "videoURL": "#",
+        "duration": "16:25",
+        "desc": {
+            "channelLogo": "assets/images/hero.png",
+            "channelName": "Jhon Doe",
+            "channelURL": "#",
+            "title": "This is YouTube Web UI Clone using TailwindCSS",
+            "views": "51k",
+            "published": "1 week"
+        }
+    }
+]
